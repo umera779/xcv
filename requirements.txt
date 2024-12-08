@@ -1,4 +1,4 @@
-apturl==0.5.2
+
 asgiref==3.8.1
 babel==2.16.0
 beautifulsoup4==4.12.3
